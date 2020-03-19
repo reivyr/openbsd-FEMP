@@ -7,4 +7,4 @@ Download the script FEMP-openbsd.sh. Please read the content before execute it i
 `ftp https://raw.githubusercontent.com/reivyr/openbsd-FEMP/master/FEMP-openbsd.sh`
 
 
-`sh ponscripter-openbsd.sh`
+`sh FEMP-openbsd.sh`
